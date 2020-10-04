@@ -1,0 +1,5 @@
+C:\Users\ADMIN\source\repos\Project1\Debug\Project1.vcxprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\Project1\Debug\Project1.MyForm.resources
+C:\Users\ADMIN\source\repos\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Project1\Debug\Project1.exe
+C:\Users\ADMIN\source\repos\Project1\Debug\Project1.pdb
