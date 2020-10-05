@@ -1,0 +1,2 @@
+E:\Programms\Microsoft Visual Studio\Projects\Лаба1\Debug\Лаба1.exe
+E:\Programms\Microsoft Visual Studio\Projects\Лаба1\Debug\Лаба1.pdb
