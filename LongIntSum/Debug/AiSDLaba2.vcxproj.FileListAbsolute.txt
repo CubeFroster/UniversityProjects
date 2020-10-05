@@ -1,0 +1,4 @@
+C:\Users\ADMIN\source\repos\AiSDLaba2\Debug\AiSDLaba2.exe
+C:\Users\ADMIN\source\repos\AiSDLaba2\Debug\AiSDLaba2.pdb
+F:\Учёба\АиСД лабы\Лаба 2\AiSDLaba2\Debug\AiSDLaba2.exe
+F:\Учёба\АиСД лабы\Лаба 2\AiSDLaba2\Debug\AiSDLaba2.pdb
